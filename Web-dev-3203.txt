@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Learn-web-development</title>
+<title>Project Photography site</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PlayfairDisplaySC">
+<style>
+body, h1 {font-family: "PlayfairDisplaySC" , sans-serif}
+</style>
+
 </head>
 <body>
 
-<h1>Web Development</h1>
+<h1><b>D Will Photography</b></h1>
 <p>This will be a Project.</p>
 
 </body>
