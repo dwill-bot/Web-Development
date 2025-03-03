@@ -24,8 +24,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column; /* Stack elements vertically */
-    background-color: #f4f4f4; /* Optional background color */
+    flex-direction: column; 
+    background-color: #f4f4f4; 
 }
 
 /* H1 Style*/
