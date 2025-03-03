@@ -53,12 +53,12 @@ p {
     <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_0603-1.jpg" width="400" height="200" alt="Tree Sunset">
     <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_9896-1.jpg" width="400" height="200" alt="Pink Flower">
     <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_9903-1.jpg" width="400" height="200" alt="Red Flower">
-    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_9833-1.jpg" width="400" height="200" alt="Red Flower">
-    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_9194-1.jpg" width="400" height="200" alt="Red Flower">
-    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_9057-1.jpg" width="400" height="200" alt="Red Flower">
-    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_8983-1.jpg" width="400" height="200" alt="Red Flower">
-    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_8343-1.jpg" width="400" height="200" alt="Red Flower">
-    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_8305-1.jpg" width="400" height="200" alt="Red Flower">
+    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_9833-1.jpg" width="400" height="200" alt="leaves">
+    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_9194-1.jpg" width="400" height="200" alt="Red Flower2">
+    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_9057-1.jpg" width="400" height="200" alt="Dandy">
+    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_8983-1.jpg" width="400" height="200" alt="Yellow Flower">
+    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_8343-1.jpg" width="400" height="200" alt="Daisy">
+    <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_8305-1.jpg" width="400" height="200" alt="Yell flower">
 </div>
 
 </body>
