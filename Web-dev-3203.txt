@@ -49,7 +49,7 @@ p {
 <p>Capturing the Moment</p>
 
 <!--Picture //-->
-<div class="image-container">
+<div class="image-container" style =padding:0px 0px 0px;">
     <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_0603-1.jpg" width="400" height="200" alt="Tree Sunset">
     <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_9896-1.jpg" width="400" height="200" alt="Pink Flower">
     <img src="https://raw.githubusercontent.com/dwill-bot/Web-Development/main/IMG_9903-1.jpg" width="400" height="200" alt="Red Flower">
