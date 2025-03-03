@@ -1,17 +1,52 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Project Photography site</title>
+<title>Project Photography Site</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PlayfairDisplaySC">
-<style>
-body, h1 {font-family: "PlayfairDisplaySC" , sans-serif}
-</style>
 
+<style>
+/* Font body and header */
+body, h1 {
+    font-family: "Playfair Display SC", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* body height*/
+html, body {
+    height: 100%;
+}
+
+/* Centering Center */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Stack elements vertically */
+    background-color: #f4f4f4; /* Optional background color */
+}
+
+/* H1 Style*/
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    margin: 0;
+}
+
+/* Paragraph Style */
+p {
+    font-size: 1.2em;
+    text-align: center;
+}
+</style>
 </head>
 <body>
 
+/* Title of page*/
 <h1><b>D Will Photography</b></h1>
-<p>This will be a Project.</p>
+<p>Capturing the Moment</p>
+
+
 
 </body>
 </html>
