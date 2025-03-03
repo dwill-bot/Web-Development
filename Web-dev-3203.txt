@@ -46,7 +46,12 @@ p {
 <h1><b>D Will Photography</b></h1>
 <p>Capturing the Moment</p>
 
-
+/*Picture*/
+<div class="image-container">
+    <img src="https://github.com/dwill-bot/Web-Development/blob/5b11bb56e5eed08e46a4b5b3e33ab566b5157993/IMG_	0603-1.jpg" alt="TreeSunset">
+    <img src="https://github.com/dwill-bot/Web-Development/blob/5b11bb56e5eed08e46a4b5b3e33ab566b5157993/IMG_9896-1.jpg" alt="Pinkflower">
+    <img src="https://github.com/dwill-bot/Web-Development/blob/5b11bb56e5eed08e46a4b5b3e33ab566b5157993/IMG_9903-1.jpg" alt="Redflower">
+</div>
 
 </body>
 </html>
