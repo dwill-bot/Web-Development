@@ -2,12 +2,14 @@
 <html>
 <head>
 <title>Project Photography Site</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PlayfairDisplaySC">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <style>
 /* Font body and header */
 body, h1 {
-    font-family: "Playfair Display SC", sans-serif;
+    font-family: "Playfair Display SC", serif;
+    font-weight: 400;
+    font-style: normal
     margin: 0;
     padding: 0;
 }
