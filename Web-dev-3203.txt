@@ -68,8 +68,8 @@ p {
 </div>
 
 <footer>
-<p>About</p>
-<p>Contact</p>
+<p><a href="about.html">About</a></p>
+<p><a href="contact.html">Contact</a></p>
 
 </body>
 </html>
